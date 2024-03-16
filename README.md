@@ -42,13 +42,6 @@
 
 <h3 align="center"><a href="https://dapper-caramel-818d12.netlify.app"><strong>Want to see live preview »</strong></a></h3>
 
-<p align="center">
-  <br />&#10023;
-  <a href="https://github.com/Deepeshgodhwani/Exploding-kittens/issues">Report Bug</a> &#10023;
-  <a href="#Getting-Started">Getting Started</a> &#10023; 
-  <a href="#Install">Installing</a> &#10023;
-  <a href="#Contact">Author</a> &#10023;
-</p>
 
 Exploding Kittens is a thrilling card game developed on the MERN  stack. Players strategically draw cards from a deck while avoiding explosive kittens that can end their game. With engaging gameplay, eye-catching visuals, Exploding Kittens offers an exhilarating and addictive gaming experience for players of all ages.
 
@@ -98,19 +91,19 @@ This project was built using Tailwind css , React, Redux , ChakraUI Node JS, Exp
 ### Setup
 
 
-The project repository can be found in [GitHub link](https://github.com/Deepeshgodhwani/Exploding-kittens) or just clone the project using this command. 
+The project repository can be found in [GitHub link](https://github.com/hariprasad-143/Emitrr) or just clone the project using this command. 
 
 
 ```
 Using HTTPS
 
-# git clone  https://github.com/Deepeshgodhwani/Exploding-kittens.git
+# git clone  https://github.com/hariprasad-143/Emitrr.git
 ```
 
 + Open terminal on your workspace with
 
 ```
-cd /home/workspace/Exploding-kitten
+cd /home/workspace/Emitrr
 ```
 
 
@@ -156,34 +149,7 @@ To run the application got to the client folder and run the following command:
 npm start
 ```
 
-### Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file in server folder
-
-`MONGO_URL`
-
-`PORT`
 
 
 
-### Tools used on this project
 
-- Visual Studio Code
-- MongoDB compass
-
-<br/>
-
-
-
-## Contact
-
-If you want to contact me, you can reach me through below handles.
-
-[![linkedin](https://img.shields.io/badge/Deepesh_Godhwani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deeepesh-godhwani-4269531b0)
-[![Twitter](https://img.shields.io/badge/Deepesh_Godhwani-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Deepeshgodhwani)
-
-© 2023 Deepesh Godhwani
-
-## Show your support
-
-Give a ⭐️ if you like this project!	
